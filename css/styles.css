@@ -25,7 +25,7 @@ html {
         margin: 0px;
         padding: 0px; }
         html body header ul li {
-          display: inline-block; }
+          display: inline; }
       html body header p {
         text-transform: uppercase;
         font-weight: 500; }
@@ -113,6 +113,58 @@ html {
         html body .info li {
           display: block;
           margin: 20px auto !important; } }
+
+#mc_embed_signup .mc-field-group {
+  display: inline-block;
+  margin: 0px 1%;
+  position: relative; }
+  #mc_embed_signup .mc-field-group p {
+    font-size: 11px; }
+  #mc_embed_signup .mc-field-group input[type="text"], #mc_embed_signup .mc-field-group input[type="email"] {
+    background: rgba(255, 255, 255, 0.9);
+    border: 0px;
+    border-radius: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    height: 36px;
+    display: inline-block;
+    width: 200px; }
+
+#mc_embed_signup input[type="submit"] {
+  background: #e8e8e8;
+  color: #000;
+  height: 36px;
+  line-height: 36px;
+  padding: 0px 24px;
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: 700; }
+
+@media all and (max-width: 767px) {
+  #mc_embed_signup .mc-field-group {
+    display: block;
+    margin: 20px auto;
+    text-align: center; }
+    #mc_embed_signup .mc-field-group input[type="text"], #mc_embed_signup .mc-field-group input[type="email"] {
+      width: 240px;
+      border: 1px solid #e8e8e8; }
+    #mc_embed_signup .mc-field-group input[type="submit"] {
+      width: 240px; }
+  #mc_embed_signup div.mce_inline_error {
+    text-align: center !important; } }
+html body #mc_embed_signup div.mce_inline_error {
+  background: transparent;
+  color: red;
+  font-weight: normal;
+  position: absolute;
+  bottom: -32px;
+  right: 0px;
+  font-size: 10px;
+  width: 100%;
+  text-align: right; }
+
+#mc_embed_signup label {
+  display: none !important; }
 
 @media all and (max-width: 767px) {
   .container {
