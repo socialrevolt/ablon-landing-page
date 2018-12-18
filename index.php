@@ -177,10 +177,10 @@
 		<div class="row middle-xs">
 			<div class="col-xs-12 col-sm-5 center-xs">
 				<div class="box">
-					<a class="btn" target="_blank" href="#">
+					<a class="btn" target="_blank" href="https://secure.anedot.com/ablon4mayor/donate">
 						Donate
 					</a>
-					<a class="btn" target="_blank" href="https://secure.anedot.com/ablon4mayor/donate">
+					<a class="btn" target="_blank" href="#">
 						Join Mike
 					</a>
 				</div>
