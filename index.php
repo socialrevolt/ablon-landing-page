@@ -212,7 +212,7 @@
 		<div class="row">
 			<div class="col-xs-12 center-xs">
 				<div class="box">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+					<p>Political ad paid for by Mike Ablon for Dallas campaign.</p>
 				</div>
 			</div>
 		</div>
