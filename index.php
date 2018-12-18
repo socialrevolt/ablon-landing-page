@@ -175,19 +175,22 @@
 <section style="background: url('https://images.unsplash.com/photo-1531273776218-7d1bd4db5447?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2434&q=80') no-repeat center center; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover;">
 	<div class="container">
 		<div class="row middle-xs">
-			<div class="col-xs-12 col-sm-4 center-xs">
+			<div class="col-xs-12 col-sm-5 center-xs">
 				<div class="box">
-					<a class="btn" target="_blank" href="https://secure.anedot.com/ablon4mayor/donate">
+					<a class="btn" target="_blank" href="#">
 						Donate
+					</a>
+					<a class="btn" target="_blank" href="https://secure.anedot.com/ablon4mayor/donate">
+						Join Mike
 					</a>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-4 center-xs">
+			<div class="col-xs-12 col-sm-3 center-xs">
 				<div class="box">
 					<ul class="social">
-						<li><a href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a href=""><i class="fab fa-facebook"></i></a></li>
-						<li><a href=""><i class="fab fa-instagram"></i></a></li>
+						<li><a target="_blank" href="https://twitter.com/michaelablon/"><i class="fab fa-twitter"></i></a></li>
+						<li><a target="_blank" href="https://www.facebook.com/mikeablon"><i class="fab fa-facebook"></i></a></li>
+						<li><a target="_blank" href="https://www.instagram.com/mikeablon/"><i class="fab fa-instagram"></i></a></li>
 					</ul>
 				</div>
 			</div>
