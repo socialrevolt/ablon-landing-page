@@ -143,7 +143,7 @@
 			<div class="col-xs-12 col-md-4 center-xs">
 				<div class="box article">
 					<img src="<?php bloginfo('template_url'); ?>/img/iStock-92246598.jpeg">
-					<h4>Safer family in every part of dallas.</h4>
+					<h4>Safer families in every part of dallas.</h4>
 				</div>
 			</div>
 			<div class="col-xs-12 col-md-4 center-xs">
@@ -180,7 +180,7 @@
 					<a class="btn" target="_blank" href="https://secure.anedot.com/ablon4mayor/donate">
 						Donate
 					</a>
-					<a class="btn" target="_blank" href="http://eepurl.com/gbJJjT">
+					<a class="btn" target="_blank" href="https://mailchi.mp/d458b05e61d4/joinmike">
 						Join Mike
 					</a>
 				</div>
@@ -215,7 +215,7 @@
 		<div class="row">
 			<div class="col-xs-12 center-xs">
 				<div class="box">
-					<p>Political ad paid for by Mike Ablon for Dallas campaign.</p>
+					<p>Pol. Adv. paid for by Mike Ablon Campaign, 8222 Douglas Ave. Ste. 604, Dallas, TX 75225</p>
 				</div>
 			</div>
 		</div>
