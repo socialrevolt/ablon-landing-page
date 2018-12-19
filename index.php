@@ -180,7 +180,7 @@
 					<a class="btn" target="_blank" href="https://secure.anedot.com/ablon4mayor/donate">
 						Donate
 					</a>
-					<a class="btn" target="_blank" href="#">
+					<a class="btn" target="_blank" href="http://eepurl.com/gbJJjT">
 						Join Mike
 					</a>
 				</div>
